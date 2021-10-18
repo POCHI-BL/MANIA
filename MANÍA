@@ -483,6 +483,22 @@
       "groups": {
         "POCHI": "/proxy/api/imgur/chapter/YWB9jN7/"
       },
+      "last_updated": "1616368746"
+    },
+    "Side Story 1": {
+      "title": "Side Story 1",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter/AKRENRD/"
+      },
+      "last_updated": "1616368746"
+    },
+    "Side Story 2": {
+      "title": "Side Story 2",
+      "volume": "1",
+      "groups": {
+        "POCHI": "/proxy/api/imgur/chapter//xFms8cU/"
+      },
       "last_updated": "1619043765"        
     }    
   }
